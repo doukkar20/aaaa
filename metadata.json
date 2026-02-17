@@ -1,0 +1,7 @@
+{
+  "name": "LuxeDrive AI Rental",
+  "description": "A premium car rental platform featuring an AI-powered concierge to help you find the perfect vehicle for any occasion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
